@@ -1,3 +1,6 @@
 [submodule "submodule/rollup"]
 	path = submodule/rollup
 	url = https://github.com/lemanschik/rollup.git
+[submodule "submodule/vite"]
+	path = submodule/vite
+	url = https://github.com/vitejs/vite
