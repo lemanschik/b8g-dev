@@ -4,3 +4,6 @@
 [submodule "submodule/vite"]
 	path = submodule/vite
 	url = https://github.com/vitejs/vite
+[submodule "worktree/rollup"]
+	path = worktree/rollup
+	url = /home/frank/repos/lemanschik/b8g.git
